@@ -9,6 +9,7 @@ For more information, please see our website, [http://geneontology.org/](http://
 - [go-ontology](https://github.com/geneontology/go-ontology) - Source ontology files for the Gene Ontology.
 This is primarily for the developers of the GO and contains the source code for the GO ontology.
 To download ontology files, please use the Downloads menu on our [website](http://geneontology.org).
+- [go-annotation](https://github.com/geneontology/go-annotation) - Issues about GO annotations (manual & automated)
 - [go-site](https://github.com/geneontology/go-site) - Metadata, tools, and files associated with the Gene Ontology website
 - [noctua](https://github.com/geneontology/noctua) - Graph-based modeling / editing tools for biology
 - [helpdesk](https://github.com/geneontology/helpdesk) - A place for the GO community to ask for help or report issues.
